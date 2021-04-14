@@ -46,6 +46,7 @@
   "bugs": {
     "url": "https://github.com/MikeYef96/timer-test-task"
   },
+  "homepage": " https://mikeyef96.github.io/timer-test-task/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -72,7 +73,6 @@
     "moment": "^2.29.1",
     "papaparse": "^5.3.0",
     "prettier": "^2.2.1",
-    "react-csv-reader": "^3.3.0",
     "react-redux-modal-flex": "^2.0.2",
     "redux-devtools-extension": "^2.13.9"
   }
